@@ -5,11 +5,11 @@
 </p>
 
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+👋%2C+I'm+Muhammad+Rizwan;A+passionate+Front+End+Developer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=0081B4&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+👋%2C+I'm+Muhammad+Rizwan;A+passionate+Front+End+Developer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
 
 <p align='right'>
-    <img align='right' alt="coding" width='350' src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+    <img align='right' alt="coding" width='400' style="border-radius:20px;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
     <!-- <img align='right' alt="coding" width='350' src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/nothing.gif"> -->
 </p>
 
@@ -61,7 +61,7 @@
 
 <p align='center'>
 <img height='230px' src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
-<img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRizwan051&show_icons=true&locale=en&layout=compact" alt="tanv33" />
+<img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRizwan051&show_icons=true&locale=en&layout=compact" alt="MuhammadRizwan051" />
 
 </p>
 
@@ -70,8 +70,8 @@
 <br>
 
 <p align="center">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRizwan051&theme=dark" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadRizwan051&show_icons=true&theme=dark" />
+ <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRizwan051&theme=dark" />
+ <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MuhammadRizwan051&show_icons=true&theme=dark" />
  </p>
 
 <hr>
@@ -82,16 +82,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizwan051&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="width:80%;" />
 </p> -->
 
+<h3 align="left">Contributions: </h3>
+<br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadRizwan051&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+
+<hr>
 
 <h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
 
 ![snake gif](https://github.com/MuhammadRizwan051/MuhammadRizwan051/blob/output/github-contribution-grid-snake.gif)
 
-<hr>
 
-<h3 align="left">Contributions: </h3>
-<br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadRizwan051&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories</h3>
 
